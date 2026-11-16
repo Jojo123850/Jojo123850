@@ -1,6 +1,7 @@
-  <img width="2499" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/2db614d1-264d-4535-b888-9d8c694381c1" />
+ <img width="2499" height="690" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/6c8809d5-6a91-4c5d-b545-2e3c7c0c8659" />
 
-Je développe mes compétences avec **React, TypeScript et Node.js**.
+
+## Je développe mes compétences avec **React, TypeScript et Node.js**.
 
 Actuellement, je travaille sur **BADDIES**, une application dédiée aux premiers gestes pour les douleurs menstruelles.
 
