@@ -1,4 +1,4 @@
-## Développeuse web en formation
+  <img width="2499" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/2db614d1-264d-4535-b888-9d8c694381c1" />
 
 Je développe mes compétences avec **React, TypeScript et Node.js**.
 
